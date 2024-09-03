@@ -1,0 +1,14 @@
+c:\Users\adity\Documents\Github Repos\C# Projects\1. Simple Calculator\bin\Debug\net8.0\1. Simple Calculator.exe
+c:\Users\adity\Documents\Github Repos\C# Projects\1. Simple Calculator\bin\Debug\net8.0\1. Simple Calculator.deps.json
+c:\Users\adity\Documents\Github Repos\C# Projects\1. Simple Calculator\bin\Debug\net8.0\1. Simple Calculator.runtimeconfig.json
+c:\Users\adity\Documents\Github Repos\C# Projects\1. Simple Calculator\bin\Debug\net8.0\1. Simple Calculator.dll
+c:\Users\adity\Documents\Github Repos\C# Projects\1. Simple Calculator\bin\Debug\net8.0\1. Simple Calculator.pdb
+c:\Users\adity\Documents\Github Repos\C# Projects\1. Simple Calculator\obj\Debug\net8.0\1. Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\adity\Documents\Github Repos\C# Projects\1. Simple Calculator\obj\Debug\net8.0\1. Simple Calculator.AssemblyInfoInputs.cache
+c:\Users\adity\Documents\Github Repos\C# Projects\1. Simple Calculator\obj\Debug\net8.0\1. Simple Calculator.AssemblyInfo.cs
+c:\Users\adity\Documents\Github Repos\C# Projects\1. Simple Calculator\obj\Debug\net8.0\1. Simple Calculator.csproj.CoreCompileInputs.cache
+c:\Users\adity\Documents\Github Repos\C# Projects\1. Simple Calculator\obj\Debug\net8.0\1. Simple Calculator.dll
+c:\Users\adity\Documents\Github Repos\C# Projects\1. Simple Calculator\obj\Debug\net8.0\refint\1. Simple Calculator.dll
+c:\Users\adity\Documents\Github Repos\C# Projects\1. Simple Calculator\obj\Debug\net8.0\1. Simple Calculator.pdb
+c:\Users\adity\Documents\Github Repos\C# Projects\1. Simple Calculator\obj\Debug\net8.0\1. Simple Calculator.genruntimeconfig.cache
+c:\Users\adity\Documents\Github Repos\C# Projects\1. Simple Calculator\obj\Debug\net8.0\ref\1. Simple Calculator.dll

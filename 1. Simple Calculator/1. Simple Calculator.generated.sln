@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Simple Calculator", "1. Simple Calculator\1. Simple Calculator.csproj", "{44399809-E0C4-4619-BD52-62F7E0276E00}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Bank Account Management", "2. Bank Account Management\2. Bank Account Management.csproj", "{FF577C34-31B1-4094-88D1-7C05D26EB98C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44399809-E0C4-4619-BD52-62F7E0276E00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44399809-E0C4-4619-BD52-62F7E0276E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44399809-E0C4-4619-BD52-62F7E0276E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44399809-E0C4-4619-BD52-62F7E0276E00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF577C34-31B1-4094-88D1-7C05D26EB98C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF577C34-31B1-4094-88D1-7C05D26EB98C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF577C34-31B1-4094-88D1-7C05D26EB98C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF577C34-31B1-4094-88D1-7C05D26EB98C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4676C8CD-8F6D-4717-9589-3296B92464DC}
+	EndGlobalSection
+EndGlobal
