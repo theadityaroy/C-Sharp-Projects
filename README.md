@@ -1,6 +1,6 @@
 # C-Sharp-Projects
 
-# Simple Calculator
+## Simple Calculator
 ### Objective:
 Create a console-based calculator that can perform basic arithmetic operations (addition, subtraction, multiplication, and division).
 
