@@ -1,0 +1,14 @@
+c:\Users\adity\Documents\Github Repos\C# Projects\4. Inventory Management System\bin\Debug\net8.0\4. Inventory Management System.exe
+c:\Users\adity\Documents\Github Repos\C# Projects\4. Inventory Management System\bin\Debug\net8.0\4. Inventory Management System.deps.json
+c:\Users\adity\Documents\Github Repos\C# Projects\4. Inventory Management System\bin\Debug\net8.0\4. Inventory Management System.runtimeconfig.json
+c:\Users\adity\Documents\Github Repos\C# Projects\4. Inventory Management System\bin\Debug\net8.0\4. Inventory Management System.dll
+c:\Users\adity\Documents\Github Repos\C# Projects\4. Inventory Management System\bin\Debug\net8.0\4. Inventory Management System.pdb
+c:\Users\adity\Documents\Github Repos\C# Projects\4. Inventory Management System\obj\Debug\net8.0\4. Inventory Management System.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\adity\Documents\Github Repos\C# Projects\4. Inventory Management System\obj\Debug\net8.0\4. Inventory Management System.AssemblyInfoInputs.cache
+c:\Users\adity\Documents\Github Repos\C# Projects\4. Inventory Management System\obj\Debug\net8.0\4. Inventory Management System.AssemblyInfo.cs
+c:\Users\adity\Documents\Github Repos\C# Projects\4. Inventory Management System\obj\Debug\net8.0\4. Inventory Management System.csproj.CoreCompileInputs.cache
+c:\Users\adity\Documents\Github Repos\C# Projects\4. Inventory Management System\obj\Debug\net8.0\4. Inventory Management System.dll
+c:\Users\adity\Documents\Github Repos\C# Projects\4. Inventory Management System\obj\Debug\net8.0\refint\4. Inventory Management System.dll
+c:\Users\adity\Documents\Github Repos\C# Projects\4. Inventory Management System\obj\Debug\net8.0\4. Inventory Management System.pdb
+c:\Users\adity\Documents\Github Repos\C# Projects\4. Inventory Management System\obj\Debug\net8.0\4. Inventory Management System.genruntimeconfig.cache
+c:\Users\adity\Documents\Github Repos\C# Projects\4. Inventory Management System\obj\Debug\net8.0\ref\4. Inventory Management System.dll
