@@ -1,4 +1,5 @@
 # C-Sharp-Projects
+Running the Simple Chat Application (Console-Based) in Visual Studio Code (VS Code) involves setting up the environment, creating the server and client programs, and then running them.
 
 ## 1. Simple Calculator
 ### Objective:
