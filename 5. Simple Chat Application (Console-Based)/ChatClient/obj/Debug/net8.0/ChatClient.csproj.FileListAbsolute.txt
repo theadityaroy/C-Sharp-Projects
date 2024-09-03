@@ -1,0 +1,14 @@
+C:\Users\adity\Documents\Github Repos\C# Projects\5. Simple Chat Application (Console-Based)\ChatClient\bin\Debug\net8.0\ChatClient.exe
+C:\Users\adity\Documents\Github Repos\C# Projects\5. Simple Chat Application (Console-Based)\ChatClient\bin\Debug\net8.0\ChatClient.deps.json
+C:\Users\adity\Documents\Github Repos\C# Projects\5. Simple Chat Application (Console-Based)\ChatClient\bin\Debug\net8.0\ChatClient.runtimeconfig.json
+C:\Users\adity\Documents\Github Repos\C# Projects\5. Simple Chat Application (Console-Based)\ChatClient\bin\Debug\net8.0\ChatClient.dll
+C:\Users\adity\Documents\Github Repos\C# Projects\5. Simple Chat Application (Console-Based)\ChatClient\bin\Debug\net8.0\ChatClient.pdb
+C:\Users\adity\Documents\Github Repos\C# Projects\5. Simple Chat Application (Console-Based)\ChatClient\obj\Debug\net8.0\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adity\Documents\Github Repos\C# Projects\5. Simple Chat Application (Console-Based)\ChatClient\obj\Debug\net8.0\ChatClient.AssemblyInfoInputs.cache
+C:\Users\adity\Documents\Github Repos\C# Projects\5. Simple Chat Application (Console-Based)\ChatClient\obj\Debug\net8.0\ChatClient.AssemblyInfo.cs
+C:\Users\adity\Documents\Github Repos\C# Projects\5. Simple Chat Application (Console-Based)\ChatClient\obj\Debug\net8.0\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\adity\Documents\Github Repos\C# Projects\5. Simple Chat Application (Console-Based)\ChatClient\obj\Debug\net8.0\ChatClient.dll
+C:\Users\adity\Documents\Github Repos\C# Projects\5. Simple Chat Application (Console-Based)\ChatClient\obj\Debug\net8.0\refint\ChatClient.dll
+C:\Users\adity\Documents\Github Repos\C# Projects\5. Simple Chat Application (Console-Based)\ChatClient\obj\Debug\net8.0\ChatClient.pdb
+C:\Users\adity\Documents\Github Repos\C# Projects\5. Simple Chat Application (Console-Based)\ChatClient\obj\Debug\net8.0\ChatClient.genruntimeconfig.cache
+C:\Users\adity\Documents\Github Repos\C# Projects\5. Simple Chat Application (Console-Based)\ChatClient\obj\Debug\net8.0\ref\ChatClient.dll

@@ -1,0 +1,14 @@
+C:\Users\adity\Documents\Github Repos\C# Projects\5. Simple Chat Application (Console-Based)\ChatServer\bin\Debug\net8.0\ChatServer.exe
+C:\Users\adity\Documents\Github Repos\C# Projects\5. Simple Chat Application (Console-Based)\ChatServer\bin\Debug\net8.0\ChatServer.deps.json
+C:\Users\adity\Documents\Github Repos\C# Projects\5. Simple Chat Application (Console-Based)\ChatServer\bin\Debug\net8.0\ChatServer.runtimeconfig.json
+C:\Users\adity\Documents\Github Repos\C# Projects\5. Simple Chat Application (Console-Based)\ChatServer\bin\Debug\net8.0\ChatServer.dll
+C:\Users\adity\Documents\Github Repos\C# Projects\5. Simple Chat Application (Console-Based)\ChatServer\bin\Debug\net8.0\ChatServer.pdb
+C:\Users\adity\Documents\Github Repos\C# Projects\5. Simple Chat Application (Console-Based)\ChatServer\obj\Debug\net8.0\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adity\Documents\Github Repos\C# Projects\5. Simple Chat Application (Console-Based)\ChatServer\obj\Debug\net8.0\ChatServer.AssemblyInfoInputs.cache
+C:\Users\adity\Documents\Github Repos\C# Projects\5. Simple Chat Application (Console-Based)\ChatServer\obj\Debug\net8.0\ChatServer.AssemblyInfo.cs
+C:\Users\adity\Documents\Github Repos\C# Projects\5. Simple Chat Application (Console-Based)\ChatServer\obj\Debug\net8.0\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\adity\Documents\Github Repos\C# Projects\5. Simple Chat Application (Console-Based)\ChatServer\obj\Debug\net8.0\ChatServer.dll
+C:\Users\adity\Documents\Github Repos\C# Projects\5. Simple Chat Application (Console-Based)\ChatServer\obj\Debug\net8.0\refint\ChatServer.dll
+C:\Users\adity\Documents\Github Repos\C# Projects\5. Simple Chat Application (Console-Based)\ChatServer\obj\Debug\net8.0\ChatServer.pdb
+C:\Users\adity\Documents\Github Repos\C# Projects\5. Simple Chat Application (Console-Based)\ChatServer\obj\Debug\net8.0\ChatServer.genruntimeconfig.cache
+C:\Users\adity\Documents\Github Repos\C# Projects\5. Simple Chat Application (Console-Based)\ChatServer\obj\Debug\net8.0\ref\ChatServer.dll
