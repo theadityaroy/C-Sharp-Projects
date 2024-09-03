@@ -1,0 +1,14 @@
+c:\Users\adity\Documents\Github Repos\C# Projects\2. Bank Account Management\bin\Debug\net8.0\2. Bank Account Management.exe
+c:\Users\adity\Documents\Github Repos\C# Projects\2. Bank Account Management\bin\Debug\net8.0\2. Bank Account Management.deps.json
+c:\Users\adity\Documents\Github Repos\C# Projects\2. Bank Account Management\bin\Debug\net8.0\2. Bank Account Management.runtimeconfig.json
+c:\Users\adity\Documents\Github Repos\C# Projects\2. Bank Account Management\bin\Debug\net8.0\2. Bank Account Management.dll
+c:\Users\adity\Documents\Github Repos\C# Projects\2. Bank Account Management\bin\Debug\net8.0\2. Bank Account Management.pdb
+c:\Users\adity\Documents\Github Repos\C# Projects\2. Bank Account Management\obj\Debug\net8.0\2. Bank Account Management.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\adity\Documents\Github Repos\C# Projects\2. Bank Account Management\obj\Debug\net8.0\2. Bank Account Management.AssemblyInfoInputs.cache
+c:\Users\adity\Documents\Github Repos\C# Projects\2. Bank Account Management\obj\Debug\net8.0\2. Bank Account Management.AssemblyInfo.cs
+c:\Users\adity\Documents\Github Repos\C# Projects\2. Bank Account Management\obj\Debug\net8.0\2. Bank Account Management.csproj.CoreCompileInputs.cache
+c:\Users\adity\Documents\Github Repos\C# Projects\2. Bank Account Management\obj\Debug\net8.0\2. Bank Account Management.dll
+c:\Users\adity\Documents\Github Repos\C# Projects\2. Bank Account Management\obj\Debug\net8.0\refint\2. Bank Account Management.dll
+c:\Users\adity\Documents\Github Repos\C# Projects\2. Bank Account Management\obj\Debug\net8.0\2. Bank Account Management.pdb
+c:\Users\adity\Documents\Github Repos\C# Projects\2. Bank Account Management\obj\Debug\net8.0\2. Bank Account Management.genruntimeconfig.cache
+c:\Users\adity\Documents\Github Repos\C# Projects\2. Bank Account Management\obj\Debug\net8.0\ref\2. Bank Account Management.dll
