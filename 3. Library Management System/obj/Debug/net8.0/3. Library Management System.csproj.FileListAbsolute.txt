@@ -1,0 +1,14 @@
+c:\Users\adity\Documents\Github Repos\C# Projects\3. Library Management System\bin\Debug\net8.0\3. Library Management System.exe
+c:\Users\adity\Documents\Github Repos\C# Projects\3. Library Management System\bin\Debug\net8.0\3. Library Management System.deps.json
+c:\Users\adity\Documents\Github Repos\C# Projects\3. Library Management System\bin\Debug\net8.0\3. Library Management System.runtimeconfig.json
+c:\Users\adity\Documents\Github Repos\C# Projects\3. Library Management System\bin\Debug\net8.0\3. Library Management System.dll
+c:\Users\adity\Documents\Github Repos\C# Projects\3. Library Management System\bin\Debug\net8.0\3. Library Management System.pdb
+c:\Users\adity\Documents\Github Repos\C# Projects\3. Library Management System\obj\Debug\net8.0\3. Library Management System.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\adity\Documents\Github Repos\C# Projects\3. Library Management System\obj\Debug\net8.0\3. Library Management System.AssemblyInfoInputs.cache
+c:\Users\adity\Documents\Github Repos\C# Projects\3. Library Management System\obj\Debug\net8.0\3. Library Management System.AssemblyInfo.cs
+c:\Users\adity\Documents\Github Repos\C# Projects\3. Library Management System\obj\Debug\net8.0\3. Library Management System.csproj.CoreCompileInputs.cache
+c:\Users\adity\Documents\Github Repos\C# Projects\3. Library Management System\obj\Debug\net8.0\3. Library Management System.dll
+c:\Users\adity\Documents\Github Repos\C# Projects\3. Library Management System\obj\Debug\net8.0\refint\3. Library Management System.dll
+c:\Users\adity\Documents\Github Repos\C# Projects\3. Library Management System\obj\Debug\net8.0\3. Library Management System.pdb
+c:\Users\adity\Documents\Github Repos\C# Projects\3. Library Management System\obj\Debug\net8.0\3. Library Management System.genruntimeconfig.cache
+c:\Users\adity\Documents\Github Repos\C# Projects\3. Library Management System\obj\Debug\net8.0\ref\3. Library Management System.dll
